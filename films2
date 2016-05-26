@@ -1,0 +1,32 @@
+{
+  "films": [
+    {
+      "movie": "Hush",
+      "year": 2016,
+      "rating": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hush_2016_poster.jpg",
+      "story": "„Głuchoniema Maddie żyje w odosobnieniu, w świecie ciszy. Gdy jej spokój zostaje zakłócony przez atak zamaskowanego psychopaty, zadziwia swoją wolą przetrwania."
+    },
+      {
+      "movie": "6 Years ",
+      "year": 2015,
+      "rating": 8.5,
+      "image": "http://1.fwcdn.pl/po/29/87/732987/7707136.3.jpg",
+      "story": "Dan i Melanie znają się od dzieciństwa i są parą od 6 lat. Jednak gdy Dan dostaje ofertę pracy z wytwórni płytowej z innego miasta, musi zadecydować, czy rozpocznie wymarzoną karierę, czy zostanie przy swojej bratniej duszy."
+    },
+      {
+      "movie": "Emelie",
+      "year": 2015,
+      "rating": 7,
+      "image": "http://www.film-news.co.uk/images/covers/Emelie.jpg",
+      "story": "Młode małżeństwo wynajmuje Emelie do opieki nad dziećmi. Wkrótce wychodzi na jaw, że dziewczyna nie jest tym za kogo się podaje."
+    },
+     {
+      "movie": "Piąta fala ",
+      "year": 2016,
+      "rating": 8,
+      "image": "http://ecsmedia.pl/c/piata-fala-b-iext34547227.jpg",
+      "story": "Po inwazji kosmitów nastolatka poszukuje zaginionego brata, który prawdopodobnie został porwany przez obcych."
+    }
+  ]
+}
